@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget{
     home: Scaffold(
       appBar: AppBar(title: Text("hello world"),),
       body: Column(
-        children:<Widget>[
+        children: <Widget>[
           Text("hey world")
         ],
       ), 
